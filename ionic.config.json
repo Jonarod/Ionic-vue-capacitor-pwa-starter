@@ -1,0 +1,7 @@
+{
+  "name": "goodclic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
